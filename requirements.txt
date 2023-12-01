@@ -1,0 +1,4 @@
+aiogram==2.25.1
+python-dotenv==1.0.0
+simplejson==3.19.2
+requests
